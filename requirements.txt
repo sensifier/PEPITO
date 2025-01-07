@@ -1,0 +1,8 @@
+pyTelegramBotAPI==4.24.0
+python-dotenv==1.0.0
+requests==2.32.3
+pandas==2.2.3
+plotly==5.24.1
+ccxt==4.4.45
+kaleido==0.2.1  # Required for plotly to save static images
+python-dateutil==2.9.0.post0
