@@ -92,4 +92,4 @@ pepito-bot/
 Feel free to submit issues and enhancement requests!
 
 ## License
-[Apache 2.0 License](https://github.com/sensifier/PEPITO/LICENSE.md)
+[Apache 2.0 License](https://github.com/sensifier/PEPITO/LICENSE)
