@@ -15,9 +15,9 @@ A Telegram bot that tracks Pépito's adventures, providing real-time updates abo
 ### Prerequisites
 - Python 3.8 or higher
 - A Telegram Bot Token (from [@BotFather](https://t.me/botfather))
-- Access to the Cat Door API
+- Access to the Cat Door API @[Pepito-API-Repo](https://github.com/Clement87/Pepito-API)
 
-### Installation
+### Installation (beta...)
 
 1. Clone the repository:
 ```bash
