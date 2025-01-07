@@ -40,9 +40,9 @@ pip install -r requirements.txt
 ```env
 BOT_TOKEN=your_bot_token_here
 AUTHORIZED_USERS=user_id1,user_id2
-AUTHORIZED_GROUPS=group_id1,group_id2
-GROUP_ADMINS=admin_id1,admin_id2
-MAIN_DEV=dev_id
+.
+.
+.
 SSE_URL=your_sse_url
 ```
 
@@ -82,9 +82,7 @@ pepito-bot/
 - And many more!
 
 ## Admin Commands
-- `/addgroup` - Add authorized group
-- `/removegroup` - Remove group authorization
-- `/listgroups` - List authorized groups
+...
 - `/announce` - Send announcement
 - `/gif` - Send random GIF
 
