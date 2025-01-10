@@ -1,7 +1,5 @@
 # Pépito Bot 🐈‍⬛ 🤖 🐈‍⬛
 
-### **⚠️ REDACTED 🐾🐾🐾**
-
 ## **Bot available for interaction at:**
  - **[PepitoCTO Group on Telegram](https://t.me/PepitoTheCatcto)**
  - **[Pepito Bot on Telegram](https://t.me/Pepito_IO_Bot)**
@@ -15,6 +13,8 @@ A Telegram bot that tracks Pépito's adventures, providing real-time updates abo
 - 📈 Duration statistics and activity tracking
 
 ## Setup
+
+### **⚠️ REDACTED 🐾🐾🐾. Use the links above to interact with Pepito Bot**
 
 ### Prerequisites
 - Python 3.8 or higher
