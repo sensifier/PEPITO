@@ -1,8 +1,9 @@
-# Pépito Bot 🐈‍⬛ (REDACTED... 🐾🐾🐾)
+# Pépito Bot 🐈‍⬛ 
+**(REDACTED 🐾🐾🐾)**
 
 ## **Bot available for interaction at:**
- - **'[PepitoCTO Group on Telegram](https://t.me/PepitoTheCatcto)'**
- - **'[Pepito Bot on Telegram](https://t.me/Pepito_IO_Bot)'**
+ - **[PepitoCTO Group on Telegram](https://t.me/PepitoTheCatcto)**
+ - **[Pepito Bot on Telegram](https://t.me/Pepito_IO_Bot)**
 
 A Telegram bot that tracks Pépito's adventures, providing real-time updates about his comings and goings, along with Bitcoin price analysis during his adventures.
 
