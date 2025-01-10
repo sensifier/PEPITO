@@ -1,4 +1,8 @@
-# Pépito Bot 🐱
+# Pépito Bot 🐈‍⬛ (REDACTED... 🐾🐾🐾)
+
+## **Bot available for interaction at:**
+ - **'[PepitoCTO Group on Telegram](https://t.me/PepitoTheCatcto)'**
+ - **'[Pepito Bot on Telegram](https://t.me/Pepito_IO_Bot)'**
 
 A Telegram bot that tracks Pépito's adventures, providing real-time updates about his comings and goings, along with Bitcoin price analysis during his adventures.
 
@@ -7,8 +11,6 @@ A Telegram bot that tracks Pépito's adventures, providing real-time updates abo
 - 📊 Bitcoin price analysis during Pépito's adventures
 - 🖼️ Random memes and GIFs
 - 📈 Duration statistics and activity tracking
-- 👥 Group chat support
-- 🔒 Admin controls and authorization system
 
 ## Setup
 
@@ -21,7 +23,7 @@ A Telegram bot that tracks Pépito's adventures, providing real-time updates abo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pepito-bot.git
+git clone https://github.com/sensifier/PEPITO.git
 cd pepito-bot
 ```
 
