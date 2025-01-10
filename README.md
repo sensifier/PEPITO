@@ -1,6 +1,6 @@
 # Pépito Bot 🐈‍⬛ 🤖 🐈‍⬛
 
-### **(⚠️ REDACTED 🐾🐾🐾)**
+### **⚠️ REDACTED 🐾🐾🐾**
 
 ## **Bot available for interaction at:**
  - **[PepitoCTO Group on Telegram](https://t.me/PepitoTheCatcto)**
