@@ -4,5 +4,5 @@ requests==2.32.3
 pandas==2.2.3
 plotly==5.24.1
 ccxt==4.4.45
-kaleido==0.2.1  # Required for plotly to save static images
+kaleido==0.2.1
 python-dateutil==2.9.0.post0
