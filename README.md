@@ -14,7 +14,8 @@ A Telegram bot that tracks Pépito's adventures, providing real-time updates abo
 
 ## Setup
 
-### **⚠️ REDACTED 🐾🐾🐾. Use the links above to interact with Pepito Bot**
+### **⚠️ REDACTED 🐾🐾🐾**
+### ***Use the links above to interact with Pepito Bot***
 
 ### Prerequisites
 - Python 3.8 or higher
