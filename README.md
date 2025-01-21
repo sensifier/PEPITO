@@ -1,5 +1,7 @@
 # Pépito Bot 🐈‍⬛ 🤖 🐈‍⬛
 
+![](https://github.com/sensifier/PEPITO/blob/main/images/pepito_IO.gif)
+
 ## **Bot available for interaction at:**
  - **[PepitoCTO Group on Telegram](https://t.me/PepitoTheCatcto)**
  - **[Pepito Bot on Telegram](https://t.me/Pepito_IO_Bot)**
@@ -15,7 +17,11 @@ A Telegram bot that tracks Pépito's adventures, providing real-time updates abo
 ## Setup
 
 ### **⚠️ REDACTED 🐾🐾🐾**
-### ***Use the links above to interact with Pepito Bot***
+### ***Use these links to interact with Pepito Bot***
+ - **[PepitoCTO Group on Telegram](https://t.me/PepitoTheCatcto)**
+ - **[Pepito Bot on Telegram](https://t.me/Pepito_IO_Bot)**
+
+![](https://github.com/sensifier/PEPITO/blob/main/images/IMG_8274.jpeg) ![](https://github.com/sensifier/PEPITO/blob/main/images/ZZZZZZZZZZZZZZ.jpg)
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -93,6 +99,8 @@ pepito-bot/
 
 ## Contributing
 Feel free to submit issues and enhancement requests!
+
+![](https://github.com/sensifier/PEPITO/blob/main/images/Pepitoooo.GIF)
 
 ## License
 [Apache 2.0 License](https://github.com/sensifier/PEPITO/blob/main/LICENSE)
